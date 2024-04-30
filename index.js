@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 console.log("Welcome To My Quiz Game:");
-console.log("Passing Marks is 4");
+console.log("Passing Marks are 4");
 let points = 0;
 let question1 = await inquirer.prompt([
     {
