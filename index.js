@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log("Welcome To My Quiz Game:");
 console.log("Passing Marks are 4");
